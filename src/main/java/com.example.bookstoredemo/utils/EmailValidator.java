@@ -1,4 +1,4 @@
-package com.example.bookstoredemo.service.validator;
+package com.example.bookstoredemo.utils;
 
 import org.springframework.stereotype.Service;
 
